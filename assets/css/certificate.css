@@ -12,11 +12,15 @@
 .titulo-certificados {
     position: relative;
     text-align: center;
-    font-size: 25px;
+    font-size: 26px;
     padding: 1rem;
     text-transform: uppercase;
     letter-spacing: 2px;
     text-shadow: 3px 3px 3px #C9D6DF;
+}
+
+.titulo-certificados p {
+    font-size: 16px;
 }
 
 .certificados {

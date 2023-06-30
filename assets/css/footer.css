@@ -5,9 +5,18 @@ footer {
     bottom: 0;
 }
 
-footer p {
+.copy-footer {
     color: #F0F5F9;
     text-align: center;
     font-style: italic;
-    padding: 2rem;
+    font-size: 18px;
+    padding-top: 2rem;
+}
+
+.email-footer {
+    color: #F0F5F9;
+    text-align: end;
+    font-style: italic;
+    font-size: 15px;
+    padding: 1rem 10px 0 0;
 }
