@@ -1,5 +1,5 @@
 footer {
-    height: 10vh;
+    height: 12vh;
     width: 100%;
     background: #1E2022;
     bottom: 0;
@@ -18,5 +18,5 @@ footer {
     text-align: end;
     font-style: italic;
     font-size: 15px;
-    padding: 1rem 10px 0 0;
+    padding-right: 1rem;
 }
